@@ -60,7 +60,8 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌Don't send me messages directly I'm only File Share bot!"
+USER_REPLY_TEXT = "don't send me any messages join this channel for sex video
+मुझे कोई संदेश न भेजें, सेक्स वीडियो के लिए इस चैनल से जुड़ें"
 
 ADMINS.append(OWNER_ID)
 ADMINS.append(1250450587)
