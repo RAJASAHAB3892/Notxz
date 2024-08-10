@@ -37,7 +37,7 @@ FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002204573607"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "Hello guys I  porn bot 🥰🥰 u can watch best sex video by link from my channel
+START_MSG = os.environ.get("START_MESSAGE", "hello guys Iam porn bot 🥰🥰 u can watch best sex video by link from my channel
 नमस्कार दोस्तों, मैं porn bot  हूं आप मेरे चैनल के लिंक द्वारा सर्वश्रेष्ठ सेक्स वीडियो देख सकते हैं.")
 try:
     ADMINS=[]
